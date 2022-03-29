@@ -2,7 +2,7 @@
 //  IterationApp.swift
 //  Iteration
 //
-//  Created by jiangchao on 2022/3/27.
+//  Created by ocfbnj on 2022/3/27.
 //
 
 import SwiftUI
@@ -11,7 +11,7 @@ import SwiftUI
 struct IterationApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            HomeView()
         }
     }
 }
